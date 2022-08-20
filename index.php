@@ -1,5 +1,7 @@
 <html>
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,user-scalable=0"/>
         <title>Marco Tulio</title>
     </head>
     <body>
@@ -159,15 +161,14 @@
                 background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             }
 
-            .logo img{
-                width: 350px;
-            }
-
             .logo{
                 display: flex;
                 justify-content: center;
                 align-items: center;
                 margin: auto;
+                margin-top: 30px;
+                margin-bottom: 30px;
+                width: 400px;
             }
 
         </style>
@@ -176,6 +177,7 @@
         
         
         <div id="fadein" class="links">
+            <img class="logo" src="https://uploaddeimagens.com.br/images/003/988/535/full/Logo-topo.png?1661004584" alt="">
             <p>É uma honra recebê-lo(a)! Entre em contato pelos canais abaixo:</p>
 
             
@@ -209,8 +211,6 @@
             <input id="email-copy" type="text" value="contato@advocaciamarcotulio.com.br" />
 
         </div>
-
-        <button ></button>
         
         <script>
 
