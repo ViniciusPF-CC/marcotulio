@@ -177,7 +177,7 @@
         
         
         <div id="fadein" class="links">
-            <img class="logo" src="https://uploaddeimagens.com.br/images/004/004/245/full/Logo-topo.png?1661943017" alt="">
+            <img class="logo" src="https://uploaddeimagens.com.br/images/004/004/676/full/Logo-topo.png?1661958752" alt="">
             <p>É uma honra recebê-lo(a)! Entre em contato pelos canais abaixo:</p>
 
             
